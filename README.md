@@ -1,14 +1,3 @@
-Yes — you **should definitely upload this to GitHub**. For someone like you who wants to move toward **data engineering / data science**, this is **more valuable than your simple Java projects**.
-
-But don't just upload the notebook.
-If you upload it **without a proper README**, it will look like **just a random college assignment**.
-
-You need to present it like a **mini data science project**.
-
-Below is a **good README you should place in that repository**.
-
----
-
 # 📈 Stock Price Prediction using Machine Learning & LLM Assistance
 
 This project explores **stock price prediction using machine learning models with assistance from Large Language Models (LLMs)**.

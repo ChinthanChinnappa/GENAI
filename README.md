@@ -149,4 +149,3 @@ Interested in:
 * Machine Learning
 * AI Systems
 
-If you want, I can also show you **3 insanely strong data projects you can build before placements** that can realistically push you toward **high-paying data roles (₹30L – ₹1Cr level companies)**.
